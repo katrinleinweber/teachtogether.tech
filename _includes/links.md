@@ -7,6 +7,7 @@ file is a Markdown file because Jekyll doesn't expand the link
 definitions if that's done.
 {% endcomment %}
 
+[24pr]: https://24pullrequests.com/
 [4h-club]: http://www.4-h-canada.ca/
 
 [accessibility-posters]: https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/
@@ -55,6 +56,7 @@ definitions if that's done.
 [frameshift-ally]: https://frameshiftconsulting.com/ally-skills-workshop/
 [frontier-college]: https://www.frontiercollege.ca/
 
+[g1i]: https://github.com/search?o=desc&q=org%3Acarpentries+org%3Aswcarpentry+org%3Adatacarpentry+org%3Alibrarycarpentry+label%3A%22good+first+issue%22+is%3Aissue+is%3Aopen&s=created&type=Issues
 [github]: http://github.com
 [glitch]: https://glitch.com/
 [good-teacher-effects]: http://educationnext.org/in-schools-teacher-quality-matters-most-coleman/
@@ -65,6 +67,7 @@ definitions if that's done.
 [guzdial-reasons-to-learn]: https://computinged.wordpress.com/2017/10/18/why-should-we-teach-programming-hint-its-not-to-learn-problem-solving/
 
 [icer]: https://icer.hosting.acm.org
+[ih]: http://issuehub.io/
 [inessential-weirdness-open-source]: https://www.harihareswara.net/sumana/2016/05/21/0
 [inessential-weirdness]: http://www.classmatters.org/2006_07/its-not-them.php
 [irc]: https://en.wikipedia.org/wiki/Internet_Relay_Chat
@@ -127,6 +130,8 @@ definitions if that's done.
 [ten-thousand-hours]: http://www.goodlifeproject.com/podcast/anders-ericsson/
 [tierney-twitter]: https://twitter.com/figuralities/status/987330064571387906
 [troy-meetings]: https://chelseatroy.com/2018/03/29/why-do-remote-meetings-suck-so-much/
+
+[ufg]: https://up-for-grabs.net/
 
 [variable-roles]: http://saja.kapsi.fi/var_roles/
 [video-bad-teaching]: https://www.youtube.com/watch?v=-ApVt04rB4U
