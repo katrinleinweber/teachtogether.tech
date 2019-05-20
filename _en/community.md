@@ -671,4 +671,14 @@ guide and decide which of these descriptions best fits you. Do you
 think the strategies described for handling people like you are
 effective? Are other strategies equally or more effective?
 
+### What Could You Do? (small groups/15)
+
+Find 3 opportunities for [legitimate peripheral
+participation](#g:legitimate-peripheral-participation) using skills
+that you already have. This could be knowledge of a programming language
+whose communities often have some kind of overview page that aggregates
+introductory participation opportunities. See [up-for-grabs.net][ufg],
+[issuehub.io][ih] or the Christmas-themed [24pullrequests.com][24pr].
+
+
 {% include links.md %}
